@@ -1,0 +1,35 @@
+h1{
+    display:block;
+    font-family: monospace;
+   text-align:center;
+}
+img{
+    width: 300px;
+    height: 300px;
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:40px
+}
+body{
+    background-image: url("../media/images/woods.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+
+
+}
+table, th, tr,td{
+    border: 2px solid;
+    margin-right: auto;
+    margin-left:auto;  
+}
+.list ul{
+    border: 2px  solid;
+    text-align: center;
+    list-style-type: none;
+    font-family: fantasy;
+}
+.quote{
+    text-align: center;
+    font-family: fantasy;
+}
